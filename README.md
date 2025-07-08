@@ -1,8 +1,8 @@
 #  Full-Stack React App Deployment on AWS with Terraform (Elastic Beanstalk)
 
-This project demonstrates how to deploy a **React web application** using **AWS Elastic Beanstalk** — all provisioned via **Terraform**. It's a real-world DevOps workflow combining Infrastructure as Code, automation, and cloud hosting.
+This project demonstrates how to deploy a **React web application** using **AWS Elastic Beanstalk**  all provisioned via **Terraform**. It's a real world DevOps workflow combining Infrastructure as Code, automation, and cloud hosting.
 
->  This is part of a bigger journey where I’m building real infrastructure from scratch — from networking to deployment — using professional tools.
+>  This is part of a bigger journey where I’m building real infrastructure from scratch  from networking to deployment  using professional tools.
 
 ---
 
@@ -57,10 +57,10 @@ react-beanstalk-app/
 After setting up my own custom VPC on AWS (see previous project), I wanted to go further and **deploy an actual app**. Instead of clicking around in the AWS Console, I chose Terraform to:
 
 - Automate infrastructure creation
-- Build production-like deployment pipelines
-- Deepen my understanding of cloud-native development
+- Build production like deployment pipelines
+- Deepen my understanding of cloud native development
 
-This is how engineers work in teams — scriptable, reusable, and versioned.
+This is how engineers work in teams scriptable, reusable, and versioned.
 
 ---
 
